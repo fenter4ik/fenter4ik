@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">👋 Добро пожаловать!</h1>
 
-<!--
-**fenter4ik/fenter4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Мое портфолио онлайн:</b><br>
+  <a href="https://fenter4ik.github.io/About_me/" target="_blank">
+    <img src="https://img.shields.io/badge/Открыть%20портфолио-About_me-6a82fb?style=for-the-badge&logo=github" alt="Открыть About_me">
+  </a>
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fenter4ik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 📢 <b>Автоматическая переадресация:</b>  
+> Если вы не были автоматически перенаправлены, <a href="https://fenter4ik.github.io/About_me/">нажмите сюда</a>!
