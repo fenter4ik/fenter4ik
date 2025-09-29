@@ -17,8 +17,8 @@ A web application for creating and managing color palettes.
 
 🔗 [GitHub](https://github.com/fenter4ik/Kvettka)
 **Screenshots:**
-[Kvettka Screenshot 1](./screenshots/kvettka1.png)
-[Kvettka Screenshot 2](./screenshots/kvettka2.png)
+![Kvettka Screenshot 1](./screenshots/kvettka1.png)
+![Kvettka Screenshot 2](./screenshots/kvettka2.png)
 ---
 
 ### 🎮 [Just Forward]()
@@ -29,8 +29,8 @@ A web application for creating and managing color palettes.
 
 🔗 [GitHub](https://github.com/fenter4ik/Just)
 **Screenshots:**
-[Just Forward Screenshot 1](./screenshots/just1.png)
-[Just Forward Screenshot 2](./screenshots/just2.png)
+![Just Forward Screenshot 1](./screenshots/just1.png)
+![Just Forward Screenshot 2](./screenshots/just2.png)
 ---
 
 ## ⚡ Tech Stack
