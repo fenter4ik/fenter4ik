@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kirill
 
-💻 **Software Developer (C# / .NET / Unity)**  
+💻 **Software Developer (C# / .NET)**  
 🎯 Interests: backend development, game development 
 📍 Minsk, Belarus
 
@@ -49,8 +49,8 @@ A web application for creating and managing color palettes.
 
 ## 📫 Contacts
 - **Email:** kirilldour@gmail.com  
-- **Portfolio (GitHub Pages):** [About Me](https://fenter4ik.github.io/About_me/)  
-- (Optional) Add **Telegram / LinkedIn** if you want recruiters to contact you directly  
+- **Telegram:** @fenterkd 
+
 
 ---
 
